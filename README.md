@@ -1,2 +1,2 @@
 # ticketbot
-A ticketbot for shopee anniversary
+A ticketbot for SHOPEE anniversary
